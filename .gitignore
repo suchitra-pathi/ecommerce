@@ -2,3 +2,4 @@ config.js
 about.html
 
 *.txt
+temp/
